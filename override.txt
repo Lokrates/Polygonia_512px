@@ -1,0 +1,2 @@
+mcl_furnaces:furnace_active front mcl_furnace_front_active.png
+bones:bones left bones_left.png
